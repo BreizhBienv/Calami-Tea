@@ -1,0 +1,16 @@
+# Blender MTL File: 'Game_jam.blend'
+# Material Count: 1
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.072727 0.072727 0.072727
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Stylized_Wood_MTL\\Wood_normal.png
+map_Kd F:\\Dossier_New_22\\backery_marmo\\Stylized_Wood_MTL\\Wood_basecolor.png
+map_Ns Stylized_Wood_MTL\\Wood_roughness.png
+refl Stylized_Wood_MTL\\Wood_metallic.png

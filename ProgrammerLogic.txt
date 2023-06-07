@@ -1,0 +1,46 @@
+Maincomponent for every entity :
+	-Health 
+	-Attack Dmg	
+	-Enum State
+	-vfx
+	-Move speed
+	-Interactions
+
+Character additional main components:
+	-Enum Attacks
+	-Inputs
+	-Camera //in 3C
+	-Heal
+	-Amount of tea chucked
+	
+	
+Character Components:
+	AttackComponent :
+		-Special attack
+
+	Interaction Component:
+		-interact with objects
+
+	Camera follow:
+		-Uses camera to follow
+
+
+
+
+AI Components:
+	Navigation Component
+
+	Mele attack script
+
+	Range attack
+
+	Boss script
+
+	
+Game Manager
+
+
+Notes:
+
+	-Boss fight in seperate scene
+

@@ -1,0 +1,4 @@
+UI does not follow the players values
+Boss does not jump on platform
+object doesnt fall with black circle
+respawn doesnt work
